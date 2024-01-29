@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-appointment/static/css/main.a49f2889.css",
+    "main.js": "/book-appointment/static/js/main.d88e1743.js",
+    "index.html": "/book-appointment/index.html",
+    "main.a49f2889.css.map": "/book-appointment/static/css/main.a49f2889.css.map",
+    "main.d88e1743.js.map": "/book-appointment/static/js/main.d88e1743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a49f2889.css",
+    "static/js/main.d88e1743.js"
+  ]
+}
